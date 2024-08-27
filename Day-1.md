@@ -18,7 +18,7 @@ Legacy: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/lega
 
 <https://pokeapi.co/api/v2/pokemon/34>
 
-![Nidoking](firstRequest.png "Screenshot of first get request")
+![Nidoking](img/firstRequest.png "Screenshot of first get request")
 
 ### Request 2
 
@@ -33,7 +33,7 @@ Legacy: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/lega
 
 <https://pokeapi.co/api/v2/pokemon/87>
 
-![Dewgong](secondRequest.png "Screenshot of second get request")
+![Dewgong](img/secondRequest.png "Screenshot of second get request")
 
 ### Request 3
 
@@ -52,4 +52,4 @@ Legacy: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/lega
 
 <https://pokeapi.co/api/v2/pokemon/14>
 
-![Kakuna](thirdRequest.png)
+![Kakuna](img/thirdRequest.png)
