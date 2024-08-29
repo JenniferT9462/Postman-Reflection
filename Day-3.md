@@ -1,5 +1,17 @@
 # API Collections
 
+## Weatherbit base URL
+
+<https://api.weatherbit.io/v2.0/>
+
+  - I will be using  
+    * /current or /forecast/daily
+  - And 
+    * &units=I - Fahrenheit (F, mph, in)
+    * &city=New+York
+    * &city=Phoenix
+    * &city=Denver
+
 ## Steps to Creating a Collection & Environment
 * Set up collection - add new collection '+'
 * Name the collection
@@ -12,21 +24,21 @@
 ## Screenshots
 ### Creating a collection
 
-![colection](<collection.png>)
+![colection](<img/collection.png>)
 
 ### Setting up Your Environment
 
-![environment](<enviroment.png>)
+![environment](<img/enviroment.png>)
 
 ### Setting API key as a Variable
 
-![API Key](<apiKey.png>)
+![API Key](<img/apiKey.png>)
 
 ### GET Request
 
-![Request 1](<request.png>)
+![Request 1](<img/request.png>)
 
-![Request 2](<request2.png>)
+![Request 2](<img/request2.png>)
 
 ## Summary
 
