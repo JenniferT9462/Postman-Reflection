@@ -16,7 +16,7 @@ SEE:
 [Day 3](Day-3.md)
 
 ## Day 4
-### API Collections
+### Interacting with GitHub's API
 SEE: 
 [Day 4](Day-4.md)
 
