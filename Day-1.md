@@ -11,8 +11,8 @@
 * Moves: Mega-punch
 * Sprites: <https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png>
 * Cries:
-Latest: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/34.ogg>
-Legacy: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/34.ogg>
+  - Latest: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/34.ogg>
+  - Legacy: <https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/34.ogg>
 
 #### Request URL
 
