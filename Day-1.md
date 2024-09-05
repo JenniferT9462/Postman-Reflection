@@ -60,3 +60,7 @@
 <https://pokeapi.co/api/v2/pokemon/14>
 
 ![Kakuna](img/thirdRequest.png)
+
+#### Captured Responses
+
+With the PokeAPI it sends a JSON file. The JSON file is basically an array of objects. There is several data points that you can access. Some examples would be species, name, sprites(images) or abilities. Each array has a different key that you can access it's values with. 
